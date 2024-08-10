@@ -1,2 +1,2 @@
-# akta
-Autoprocess AKTA CSV files
+# Chromatograph Peak Identification
+
